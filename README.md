@@ -1,4 +1,4 @@
-- 👋 Greetings and Salutationsm my name is Kevin Sebastian and I'm a Freelance Web Developer specializing in e-commerce applications
+- 👋 Greetings and Salutations my name is Kevin Sebastian and I'm a Freelance Web Developer specializing in e-commerce applications
 - 👀 Coffee and JavaScript Addict
 - 🌱 I’m currently learning Shopify Theme Development
 - 💞️ I’m looking to collaborate on others with open souce Blockchain technologies
